@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> DREAM TEAM MANGA </title> </head>
+<title> DREAM TEAM MANGAAAAAAAAA </title> </head>
 
 <body>
 <h2>DREAM TEAM MANGA LIST</h2>
